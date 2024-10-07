@@ -1,60 +1,58 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo21358
+Fork on GitHub6688
+<h1 align="center">Hi 👋, I'm salman</h1>
+<h3 align="center">A passionate android developer kotlin</h3>
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/salman-saleh-42bb3215b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCh2sWjYTdBb8tIB9GKPc-yA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/salmandev6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/_salman.saleh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
+- 🔭 I’m currently working on [Social App](https://github.com/salmanA169/Social-app)
 
-###
+- 🌱 I’m currently learning **Kotlin , Java Script,HTML,CSS**
 
-<h1 align="center">hey there 👋</h1>
+- 👯 I’m looking to collaborate on [Athkar App](https://github.com/salmanA169/AthkarApp)
 
-###
+- 🤝 I’m looking for help with **Android**
 
-<h3 align="left">👩‍💻  About Me</h3>
+- 👨‍💻 All of my projects are available at [https://github.com/salmanA169](https://github.com/salmanA169)
 
-###
+- 📝 I regularly write articles on [https://medium.com/@salman.alamoudi95](https://medium.com/@salman.alamoudi95)
 
-<p align="left">I'm salman saleh from Saudi Arabia<br><br>- 🔭 I’m working as Android Developer Kotlin - Jetpack compose and XML<br>- 📚 I'm currently learning more<br>- ⚡ In my free time I study</p>
+- 💬 Ask me about **Android , Kotlin , Jetpack compose**
 
-###
+- 📫 How to reach me **salman.alamoudi98@gmail.com**
 
-<h3 align="left">🛠 Language and tools</h3>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1N0zGiphBaYCepEnxT4G2MEEI9BvyWWjj/view?usp=drive_link](https://drive.google.com/file/d/1l3xc3BMLyQJhW_vIt3kxxBf561ajDes3/view?usp=sharing)
 
-###
+- ⚡ Fun fact **Coding**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" height="40" alt="gradle logo"  />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/salmandev6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="salmandev6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/salman-saleh-42bb3215b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman-saleh-42bb3215b/" height="30" width="40" /></a>
+<a href="https://instagram.com/_salman.saleh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_salman.saleh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@salman_salehXx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="salman_salehxx" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/salmanDev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/salmanDev" /></a></p><br><br>
 
-###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmana169&show_icons=true&locale=en&layout=compact" alt="salmana169" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanA169&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmana169&show_icons=true&locale=en" alt="salmana169" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmana169&" alt="salmana169" /></p>
+
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
